@@ -2,20 +2,6 @@
 
 This project is a simulation of the **QUIC protocol** combined with the **NewReno congestion control algorithm**. It emulates a real-world network environment to showcase how data packets are sent, received, acknowledged, and managed under varying network conditions such as delays, packet loss, and congestion. 
 
----
-
-## Table of Contents
-1. [Overview](#overview)
-2. [Features](#features)
-3. [File Descriptions](#file-descriptions)
-4. [Setup and Installation](#setup-and-installation)
-5. [How to Run](#how-to-run)
-6. [Key Concepts](#key-concepts)
-7. [Simulation Results](#simulation-results)
-8. [Future Improvements](#future-improvements)
-
----
-
 ## Overview
 
 The QUIC protocol is a transport layer protocol designed to improve the performance of internet applications by reducing latency and increasing throughput. This project implements:
